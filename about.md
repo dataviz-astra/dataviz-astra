@@ -15,4 +15,6 @@ Criteria for analysis:
 
 **Data.csv** — scraped posts from main Twitter accounts of selected online media. 
 
+**Meta** — Meta data about scraped files.
+
 *Data collection date: 06/02/2022*
