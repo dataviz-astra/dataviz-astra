@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dataviz-astra
+- 👀 I’m interested in data visualization
+- 🌱 I’m currently learning data journalism and data analysis
+- 📫 How to reach me ulasovich.kristina@gmail.com
